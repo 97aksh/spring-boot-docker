@@ -8,6 +8,6 @@ public class MyController {
 
     @GetMapping("/message")
     public String getMessage(){
-        return "Welcome to Docker";
+        return "Welcome to the Docker";
     }
 }
